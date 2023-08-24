@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 The aim of this book is to investigate the role of intelligent technologies, specifically Artificial Intelligence (AI), in advancing clean energy solutions. The book aims to provide a comprehensive overview of the applications of AI in renewable energy and the benefits it offers.
 

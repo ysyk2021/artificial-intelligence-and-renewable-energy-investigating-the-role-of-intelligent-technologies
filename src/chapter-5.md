@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Renewable Energy Solutions
-================================================
 
 Artificial Intelligence (AI) has opened up new possibilities in renewable energy solutions. This chapter will explore how AI can be used to optimize solar power generation, manage wind farms, and control energy storage systems.
 

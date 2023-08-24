@@ -1,5 +1,3 @@
-Global Energy Consumption and Production Trends
-======================================================================================
 
 Renewable energy has become an increasingly important part of the global energy mix, driven by concerns over climate change and the need to transition to clean energy solutions. In this chapter, we will explore the current landscape of renewable energy consumption and production, including trends in global energy consumption and production, and the role of renewable energy in meeting future energy demands.
 

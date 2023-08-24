@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial intelligence (AI) has the potential to transform renewable energy systems, providing new capabilities for optimizing energy production and consumption. In this chapter, we will provide an overview of AI, including its background and fundamentals, and focus on machine learning techniques that enable AI to learn from data and make predictions.
 

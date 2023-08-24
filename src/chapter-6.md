@@ -1,5 +1,3 @@
-Chapter 6: Environmental Impact and Sustainability
-==================================================
 
 Artificial Intelligence (AI) has the potential to transform the renewable energy industry, enabling more efficient and sustainable clean energy solutions. However, there are also environmental impacts associated with AI that must be considered. In this chapter, we will explore the carbon footprint reduction potential of AI in renewable energy and sustainable practices that can be employed to ensure the long-term sustainability of AI-enabled clean energy solutions.
 

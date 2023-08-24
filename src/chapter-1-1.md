@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Renewable Energy
-=================================================================================
 
 Artificial Intelligence (AI) is rapidly transforming many industries, including renewable energy. The use of intelligent technologies in renewable energy can increase efficiency, reduce costs, and accelerate the transition to a sustainable energy future. In this chapter, we provide an overview of AI and its applications in renewable energy.
 

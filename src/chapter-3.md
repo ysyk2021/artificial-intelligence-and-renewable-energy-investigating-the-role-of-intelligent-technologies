@@ -1,5 +1,3 @@
-Chapter 3: Renewable Energy Landscape
-=====================================
 
 In order to understand the role that Artificial Intelligence (AI) can play in advancing clean energy solutions, it is important to gain a comprehensive understanding of the renewable energy landscape. In this chapter, we will explore global energy consumption and production trends and the various types of renewable energy sources.
 

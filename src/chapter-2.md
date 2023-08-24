@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 In order to understand the role that Artificial Intelligence (AI) can play in advancing clean energy solutions, it is important to gain a comprehensive understanding of the background and fundamentals of AI. In this chapter, we will explore the history of AI, the types of AI, and machine learning techniques.
 

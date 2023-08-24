@@ -1,5 +1,3 @@
-Types of Renewable Energy Sources
-========================================================================
 
 Renewable energy refers to energy that is derived from resources that are replenished naturally, such as sunlight, wind, geothermal heat, and biomass. In this chapter, we will provide an overview of the different types of renewable energy sources and their potential for contributing to a sustainable energy future.
 

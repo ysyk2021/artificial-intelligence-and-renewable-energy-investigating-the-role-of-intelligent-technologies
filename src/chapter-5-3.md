@@ -1,5 +1,3 @@
-Energy Storage System Control
-===============================================================================
 
 Energy storage is a critical component of the renewable energy landscape, enabling the integration of intermittent sources such as solar and wind into the grid. In this chapter, we will explore the role that AI can play in the control of energy storage systems.
 

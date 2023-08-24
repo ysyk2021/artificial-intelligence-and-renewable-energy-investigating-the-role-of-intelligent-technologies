@@ -1,5 +1,3 @@
-Legal Framework
-======================================================================================
 
 As artificial intelligence (AI) continues to play an increasingly important role in renewable energy, it is important to consider the ethical and legal implications of its use. In this chapter, we will discuss the legal framework surrounding the use of AI in renewable energy and the key ethical considerations that must be addressed.
 

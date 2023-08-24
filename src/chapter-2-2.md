@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial Intelligence (AI) is a rapidly advancing technology that is transforming many industries, including the renewable energy sector. In this chapter, we will provide an overview of the different types of AI and their applications.
 

@@ -1,5 +1,3 @@
-Wind Farm Management
-======================================================================
 
 Wind energy is one of the fastest-growing sectors in the renewable energy industry. However, effective management of wind farms can be challenging due to their remote locations and complex infrastructure. In this chapter, we will explore the role that AI can play in wind farm management.
 

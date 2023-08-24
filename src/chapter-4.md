@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Renewable Energy
-=========================================
 
 Artificial Intelligence (AI) is transforming the renewable energy industry by enabling more efficient and sustainable clean energy solutions. In this chapter, we will explore the benefits of AI in renewable energy and the challenges and limitations that come with its use.
 

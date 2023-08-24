@@ -1,5 +1,3 @@
-Chapter 8: Future of AI and Renewable Energy
-============================================
 
 Artificial Intelligence (AI) is rapidly transforming the renewable energy sector, and its potential impact on the industry is vast. In this chapter, we will discuss the emerging trends in AI and renewable energy and the future prospects of using intelligent technologies to advance clean energy solutions.
 

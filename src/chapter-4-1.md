@@ -1,5 +1,3 @@
-Benefits of AI in Renewable Energy
-=============================================================================
 
 Artificial Intelligence (AI) is a rapidly evolving technology that has the potential to transform the renewable energy landscape. In this chapter, we will explore the different ways in which AI can benefit renewable energy systems.
 
