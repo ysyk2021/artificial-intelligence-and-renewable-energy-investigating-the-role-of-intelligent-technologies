@@ -2,7 +2,6 @@
 
 - [Chapter 1: Introduction](README.md)
   - [Overview of Artificial Intelligence and Renewable Energy](chapter-1-1.md)
-  - [Purpose of the Book](chapter-1-2.md)
 - [Chapter 2: Background and Fundamentals of Artificial Intelligence](chapter-2.md)
   - [History of Artificial Intelligence](chapter-2-1.md)
   - [Types of Artificial Intelligence](chapter-2-2.md)
