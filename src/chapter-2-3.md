@@ -1,5 +1,4 @@
-Chapter: Machine Learning Techniques
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Machine learning techniques play a crucial role in advancing renewable energy solutions and optimizing clean energy systems. In this chapter, we will explore various machine learning techniques that are employed in the renewable energy sector, including supervised learning, unsupervised learning, and reinforcement learning.
 

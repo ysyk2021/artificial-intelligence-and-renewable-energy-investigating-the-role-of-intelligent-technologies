@@ -1,5 +1,4 @@
-Chapter: Wind Farm Management
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Wind energy is a vital component of clean and renewable energy solutions. Effective management of wind farms plays a crucial role in maximizing energy generation and optimizing their performance. In this chapter, we will explore the role of artificial intelligence (AI) and intelligent technologies in wind farm management.
 

@@ -1,5 +1,4 @@
-Chapter: History of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) has become a ubiquitous term, but its history dates back to the mid-twentieth century. In this chapter, we will explore the history of AI, including its early developments, key breakthroughs, and recent advancements that have propelled the field forward.
 

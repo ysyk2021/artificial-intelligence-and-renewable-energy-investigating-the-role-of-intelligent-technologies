@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) continues to advance and its applications in the renewable energy sector expand, it is crucial to address the ethical considerations surrounding these intelligent technologies. In this chapter, we will explore the key ethical considerations associated with AI in advancing clean energy solutions.
 

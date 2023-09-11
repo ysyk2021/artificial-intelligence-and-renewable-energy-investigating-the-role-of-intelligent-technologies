@@ -1,5 +1,4 @@
-Chapter: Global Energy Consumption and Production Trends
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Understanding global energy consumption and production trends is crucial for developing effective strategies to transition to clean and sustainable energy solutions. In this chapter, we will explore the current landscape of global energy consumption and production, along with emerging trends shaping the future.
 

@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) encompasses various approaches and techniques that enable machines to perform intelligent tasks. In this chapter, we will explore different types of AI and their applications in advancing clean energy solutions.
 

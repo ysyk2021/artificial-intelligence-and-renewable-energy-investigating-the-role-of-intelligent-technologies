@@ -1,5 +1,4 @@
-Chapter: Types of Renewable Energy Sources
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Renewable energy sources play a vital role in reducing greenhouse gas emissions and transitioning to a more sustainable energy future. In this chapter, we will explore some of the key types of renewable energy sources and their significance in advancing clean energy solutions.
 
